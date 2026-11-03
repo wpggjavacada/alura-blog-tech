@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Ícone de código do blog">
+  <rect width="200" height="200" rx="28" fill="#183C63"/>
+  <circle cx="100" cy="100" r="58" fill="#0F2A43" stroke="#3FA7D6" stroke-width="6"/>
+  <path d="M78 82 L 58 100 L 78 118" fill="none" stroke="#7CC4E8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M122 82 L 142 100 L 122 118" fill="none" stroke="#7CC4E8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="108" y1="76" x2="92" y2="124" stroke="#D97706" stroke-width="8" stroke-linecap="round"/>
+</svg>
